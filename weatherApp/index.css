@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    margin: 90px 100px;
+    justify-content: center;
+    align-items: center;    
+}
+
+.body h1{
+    margin-bottom: 30px;
+
+}
+
+.table{
+    margin-top: 180px;
+}
+
+.input-group{
+    width: 500px;
+    margin: 0 auto;
+}
